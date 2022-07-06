@@ -32,6 +32,8 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style='width:26px;'/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style='width:26px; margin-right:5px;'/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style='width:26px; margin-right:5px;'/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style='width:26px;' /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style='width:26px;' /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style='width:26px; margin-right:5px;' /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style='width:26px; margin-right:5px;' /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style='width:26px; margin-right:5px;'/></a>
