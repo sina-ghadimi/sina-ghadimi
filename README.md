@@ -1,13 +1,13 @@
 <h1 style='border-bottom:1px solid hsla(210,18%,87%,1)'>Hi There I'm Sina👋</h1>
 
-<h2>I'm a Self Taught Junior Web Developer</h2>
+<h2>I'm a Self Taught Web Developer</h2>
 
 <h3>Here are some ideas to get you started:</h3>
 
 - 🔭 I’m currently working on **Javascript and Reactjs Projects and Improving my Frontend Skills.**
 - 👯 I’m looking to collaborate on different Projects.
 - 💬 Ask me about **Frontend Stuff.**
-- ⚡ 2022 Goals **Learn Backend Development.**
+- ⚡ 2023 Goals **Learn Backend Development.**
 
 <hr/>
 
