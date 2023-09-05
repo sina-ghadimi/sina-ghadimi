@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Javascript and Reactjs Projects and Improving my Frontend Skills.**
 - 👯 I’m looking to collaborate on different Projects.
 - 💬 Ask me about **Frontend Stuff.**
-- ⚡ 2023 Goals **Learn Backend Development.**
+- ⚡ 2024 Goals **Learn Backend Development.**
 
 <hr/>
 
