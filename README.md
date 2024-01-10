@@ -1,40 +1,43 @@
-<h1 style='border-bottom:1px solid hsla(210,18%,87%,1)'>Hi There I'm Sina👋</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sina Ghadimi
+====================================================================================================================================
 
-<h2>I'm a Self Taught Web Developer</h2>
+Self Taught Frontend Deveoper, Blogger
+--------------------------------------
 
-<h3>Here are some ideas to get you started:</h3>
+I'm Sina Ghadimi, a passionate and self-taught frontend developer on a journey to create visually appealing and user-friendly web experiences. My coding adventure began with a curious mind and a determination to bring ideas to life through code.
 
-- 🔭 I’m currently working on **Javascript and Reactjs Projects and Improving my Frontend Skills.**
-- 👯 I’m looking to collaborate on different Projects.
-- 💬 Ask me about **Frontend Stuff.**
-- ⚡ 2024 Goals **Learn Backend Development.**
+* 🌍  I'm based in Iran
+* 🧠  I'm learning Reactjs, Nextjs, Typescript
 
-<hr/>
+### 🌐 Skills
 
-## Connect me using:
+- **Languages:** HTML, CSS, JavaScript, Typescript, Python
+- **Frameworks:** React.js, Next.Js
+- **Tools:** VS Code, Git, Figma, Photoshop
+- **Responsive Design:** Ensuring seamless experiences across various devices
 
-<br/>
 
-<a href='https://www.linkedin.com/in/sina-ghadimi
-'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-<a href='https://twitter.com/realsinaghadimi'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'/></a>
-<a href='https://www.xing.com/profile/sinaghadimi
-'><img src='https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white'/></a>
 
-## language and Tools
+### Socials
 
-<br/>
+<p align="left"> <a href="https://www.dev.to/sinaghadimi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/sina-ghadimi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://codewithsina.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/realsinaghadimi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-<a href='#'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style='width:26px; margin-right:5px;' /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style='width:26px; margin-right:5px;' /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style='width:26px; margin-right:5px;'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style='width:26px; margin-right:5px;' /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style='width:26px;'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style='width:26px; margin-right:5px;'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style='width:26px; margin-right:5px;'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style='width:26px;' /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style='width:26px;' /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style='width:26px; margin-right:5px;' /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style='width:26px; margin-right:5px;' /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style='width:26px; margin-right:5px;'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style='width:26px;' /></a>
+
+### 📚 Learning Journey
+
+I thrive on self-directed learning, constantly expanding my skill set through online courses like freecodecamp, udemy, tutorials, coding challenges like codewars and hands-on projects like frontendmentor. My dedication to staying updated with the latest industry trends ensures that I bring modern and efficient solutions to the table.
+
+### 🌱 Currently Exploring
+
+I'm diving deeper into ReactJs and NextJs
+
+### 🤝 Let's Connect!
+
+I'm always open to collaboration and learning from fellow developers. If you share a passion for creating exceptional web experiences, feel free to reach out. Let's code together! 🤓
+
+### 📫 Contact
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sina-ghadimi/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/realsinaghadimi)
+
+Happy coding! 🚀
