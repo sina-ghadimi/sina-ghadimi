@@ -37,7 +37,7 @@ I'm always open to collaboration and learning from fellow developers. If you sha
 
 ### 📫 Contact
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sina-ghadimi/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/realsinaghadimi)
+- LinkedIn: [sina ghadimi](https://www.linkedin.com/in/sina-ghadimi/)
+- Twitter: [sina ghadimi](https://twitter.com/realsinaghadimi)
 
 Happy coding! 🚀
